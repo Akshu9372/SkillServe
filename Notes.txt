@@ -1,0 +1,12 @@
+create the repository in thi github the copy the github link 
+first we use the commond prompt for running the process 
+we the "git clone the github link" 
+the we create the client and server folder and then in client server we install the react using the npm create vite@latest . this command 
+and then in server we use npm init -y command and create some folders and files and we change the index.js to server.js 
+then in server folder 
+-> first install nodemon
+npm i --save-dev nodemon
+-> install mongoose and express
+npm i express mongoose
+-> then for env file we install 
+npm i dotenv
